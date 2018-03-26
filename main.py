@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Label
 from PIL import ImageTk
 from PIL import Image
 import google_streetview.api
